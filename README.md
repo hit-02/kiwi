@@ -1,6 +1,6 @@
-# Kiwi Assessment (React + TypeScript + Vite)
+#Nursing-face Web App
 
-This project is a small nurse-facing web app built for the Kiwi assessment. It includes:
+This project is a small nurse-facing web app. It includes:
 
 - Login with JWT access token + refresh token
 - Dashboard that lists patients and their latest vitals
